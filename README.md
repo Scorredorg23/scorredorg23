@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Scorredorg23/scorredorg23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Esta fue la primera pagina web editada con html y css, encontramos una plantilla gartis en el buscador y posterioirmente editamos el codigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src= "./images/Captura de pantalla 2024-06-08 121348.png" width="100%"/>
+
+
+
+
+En el juego de memoria se cambairon las imagenes e iconos, todo lo descargamos en en la medidas px especificas y seguimos una ruta de trabajo en especifico para darle nuestro sello personal.
+
+<img src= "./images/juegomemoria.png" width="100%"/>
+
+
+
